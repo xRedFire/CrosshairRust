@@ -6,15 +6,6 @@ Lightweight, simple and fully customizable.
 
 ---
 
-## ⬇️ Download
-
-➡️ **[Download Latest Release](https://github.com/Artazaaa/Custom-Rust-Crosshair/releases/latest)**  
-
-If you prefer not to download the pre-built executable, you can compile the project yourself.  
-Build instructions are available below in this README.
-
----
-
 ## ✨ Features
 
 - ✅ Works in fullscreen (important)
