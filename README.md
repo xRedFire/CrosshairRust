@@ -42,4 +42,4 @@ Recommended: **Python 3.12**
 Make sure Python is added to your system PATH.
 
 
-python -m PyInstaller --onefile --noconsole Custom-Rust-Crosshair.py
+python -m PyInstaller --onefile --noconsole Crosshair.py
